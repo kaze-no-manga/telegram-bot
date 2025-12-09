@@ -1,0 +1,11 @@
+{
+  "name": "Telegram-bot Developer",
+  "version": "1.0.0",
+  "description": "Specialized agent for Kaze no Manga telegram-bot",
+  "instructions": "file:.kiro/steering/agent-prompt.md",
+  "context": [
+    "file:README.md",
+    "file:.kiro/steering/tech.md",
+    "file:.kiro/steering/conventions.md"
+  ]
+}
